@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+	<qresource>
+		<file>images/erde.jpg</file>
+		<file>images/nebular1.jpg</file>
+		<file>images/nebular2.jpg</file>
+		<file>images/nebular3.jpg</file>
+		<file>images/earthmap.jpg</file>
+	</qresource>
+</RCC>
